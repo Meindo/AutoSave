@@ -1,0 +1,13 @@
+name: AutoSave
+version: 0.1
+main: net.minigameking.autosave.AutoSave
+api-version: 1.17
+authors: [ Meindert_Moos ]
+website: minigameking.net
+commands:
+  save:
+    description: Save the server by an instant!
+    usage: /save
+  autosave:
+    description: Enable or disable automatic saving of the server
+    usage: /autosave
